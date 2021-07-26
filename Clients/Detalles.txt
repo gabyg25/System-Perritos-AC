@@ -1,0 +1,22 @@
+**Fuentes**
+Perritos y lema: Arial rounded
+Lo demas: Helvetica
+
+**COLORES**
+Body: #F3F3F3
+Perritos y lema: #E6E6E5
+Fuente negra: #484848
+Fuente blanca: #FFFFFF
+Barra de menú: #517E54
+Verde economico: #43DC81
+Amarillo basico: #FFAC30
+Lila VIP: #D758E3
+Tarjetas blancas:
+	Color: #51A6F6
+	Borde: 25px
+	Sombras: pendiente
+	
+	Cabecera paquetes (Los de colores)
+	Bordes: 25px 25px 0px 0px
+Boton azul: #51A6F6
+Borde botones: 25px
